@@ -19,7 +19,7 @@
   "files.autoSave": "afterDelay",
   "window.commandCenter": false,
   "screencastMode.onlyKeyboardShortcuts": true,
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 16,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
   "C_Cpp.codeAnalysis.clangTidy.enabled": true,
